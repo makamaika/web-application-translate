@@ -28,7 +28,7 @@ Flagflag[数字] は、国旗に置き換えるための文字列です。削除
 
 ![image](https://github.com/user-attachments/assets/b6771567-d5d3-483a-8426-f1d260672a74)
 ## 2,コードを書き込み、保存する
-main.js のコードをすべてコピーし、先ほど作成したプロジェクトの「コード.gs」(すでにあるファイル)の中身を全選択してペーストします。
+[main.js](https://github.com/makamaika/web-application-translate/blob/main/main.js) のコードをすべてコピーし、先ほど作成したプロジェクトの「コード.gs」(すでにあるファイル)の中身を全選択してペーストします。
 
 左上の「無題のプロジェクト」を好きな名前にします。(変更しなくてもいいですが、変更したほうがわかりやすいと思います。)
 
