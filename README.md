@@ -44,8 +44,9 @@ main.js のコードをすべてコピーし、先ほど作成したプロジェ
 ![image](https://github.com/user-attachments/assets/9def56f3-b28d-4614-b403-17d26a8b748a)
 
 -# ↑アカウントが変わりましたが気にしないでください
+
 設定が終わったら、「デプロイ」を押してしばらくお待ち下さい。
-![image](https://github.com/user-attachments/assets/75fd96b1-0a2f-4b24-bb6e-ebd94fb1dfdb
+![image](https://github.com/user-attachments/assets/75fd96b1-0a2f-4b24-bb6e-ebd94fb1dfdb)
 
 デプロイが終わると、ウェブアプリにアクセスするためのURLが表示されるので、コピーしてください。
 ![image](https://github.com/user-attachments/assets/a3e126c9-ae5b-4bd1-82a8-f1454b1fb932)
